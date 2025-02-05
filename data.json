@@ -1,0 +1,18 @@
+json
+[
+    {
+        "name": "Итальянская партия",
+        "description": "Основной вариант: 1.e4 e5 2.Nf3 Nc6 3.Bc4",
+        "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4"
+    },
+    {
+        "name": "Гамбит Эванса",
+        "description": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4",
+        "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4"
+    },
+    {
+        "name": "Джоко Пиано",
+        "description": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3",
+        "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3"
+    }
+]
