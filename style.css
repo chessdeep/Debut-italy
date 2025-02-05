@@ -1,0 +1,38 @@
+css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+.opening {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.opening h2 {
+    margin: 0;
+    font-size: 18px;
+    color: #2980b9;
+}
+
+.opening p {
+    margin: 5px 0 0;
+    font-size: 14px;
+    color: #555;
+}
